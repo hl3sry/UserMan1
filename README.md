@@ -1,5 +1,5 @@
 # UserMan1
-Sample project for DBP class in 2019-2 (Model 1)
+Sample project for DBP class in 2019-2 (based on Model 1)
  
 __주의: 먼저 우측 상단의 Fork 버튼을 클릭하여 이 리파지토리를 본인의 Github 사용자 계정으로 Fork(복사)한 후 사용하기 바랍니다.__
  
